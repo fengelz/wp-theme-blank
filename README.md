@@ -1,2 +1,2 @@
-# wp-theme-blank
-A blank wordpress theme 
+# reactive-templates
+A template setup with react, to output a classic web setup
